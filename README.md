@@ -10,4 +10,4 @@ Also, here are my Github stats:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TerensTare&langs_count=5&theme=tokyonight)]()
 
-[![My Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Trophies](https://github-profile-trophy.vercel.app/?username=TerensTare&theme=onedark)](https://github.com/TerensTare/github-profile-trophy)
